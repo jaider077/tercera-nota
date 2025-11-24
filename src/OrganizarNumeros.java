@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class aa {
+public class OrganizarNumeros {
     public static void main(String[] args) {
         int [] numeros = new int [5];  
         Scanner sc = new Scanner(System.in);
